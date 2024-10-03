@@ -1,5 +1,5 @@
 Task Tracker Console Application
-Project Task URL : [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+Project Task URL : (https://roadmap.sh/projects/task-tracker)
 
 .NET 8 Console app solution for the task-tracker challenge from roadmap.sh.
 
@@ -18,7 +18,7 @@ To run this application, follow these steps:
 
 Clone this repository:
 
-git clone
+git clone https://github.com/Lucas52352/Task-Tracker.git
 Navigate to the project directory:
 
 cd TaskTracker
