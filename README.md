@@ -20,17 +20,17 @@ Clone this repository:
 
 git clone https://github.com/Lucas52352/Task-Tracker.git
 Navigate to the project directory:
-
 cd TaskTracker
+
 Restore dependencies:
-
 dotnet restore
+
 Build the project:
-
 dotnet build
-Run the application:
 
+Run the application:
 dotnet run
+
 Usage
 After running the application, you will be greeted with a welcome message. You can then start entering commands.
 
