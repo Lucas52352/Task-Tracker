@@ -17,8 +17,8 @@ Installation
 To run this application, follow these steps:
 
 Clone this repository:
-
 git clone https://github.com/Lucas52352/Task-Tracker.git
+
 Navigate to the project directory:
 cd TaskTracker
 
